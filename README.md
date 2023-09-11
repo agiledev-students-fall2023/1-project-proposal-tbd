@@ -11,8 +11,15 @@ Describe the problem the software system aims to solve and explain why addressin
 
 
 ## Target End-users
-Identify the primary users or customers who will benefit from the software system.
+The Group Bill Splitting App is designed to serve a wide range of users who regularly share expenses with others, including: 
 
+- Travelers: Individuals and groups traveling together who need to split expenses for accommodation, dining, transportation, and other shared costs.
+
+- Social Gatherings: Perfect for friends and acquaintances who frequently dine out, attend events, or engage in shared leisure activities.
+
+- Co-workers: Convenient for colleagues who want to divide expenses incurred during work-related outings such as business trips or team outings.
+  
+- Housemates and Families: Helpful for people living together who want to efficiently split household bills and shared expenses.
 
 ## System Functionality (End-User Perspective):
 Explain what the system will do from the end-users' perspective, focusing on functionality and benefits.

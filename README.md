@@ -1,9 +1,9 @@
-# Project Title: Group Bill Splitting - Collaborative Expense Management App
+# Project Title: Group Bill Splitting App - Collaborative Expense Management
 
 ### Proposal Author: Allison Ji(xj2003), Joy Chen(jc10137)
 
 ## Project Overview
-The Group Bill Splitting App is designed to streamline the process of splitting bills among groups of people. In today's social and financial landscape, individuals often find themselves sharing expenses in various settings, such as dining out, traveling, or living together. This application aims to provide an efficient and user-friendly solution for managing shared expenses, ensuring that everyone pays their fair share effortlessly.
+The Group Bill Splitting App is designed to streamline the process of splitting bills among groups of people. In today's social and financial landscape, individuals often find themselves sharing expenses in various settings, such as dining out, traveling, or living together. This application aims to provide an efficient and user-friendly solution for managing shared expenses, ensuring that everyone pays their fair share effortlessly. 
 
 
 ## Problem Statement and Rationale
@@ -19,6 +19,8 @@ The Group Bill Splitting App is designed to serve a wide range of users who regu
 - **Housemates and Families:** Helpful for people living together who want to efficiently split household bills and shared expenses.
 
 ## System Functionality (End-User Perspective):
+The following key system functionalities are designed to provide an efficient experience within the application, ensuring transparent, secure, and equitable expense management.
+
 - **User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.
 - **Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group.
 - **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense.

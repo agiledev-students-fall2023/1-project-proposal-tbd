@@ -1,9 +1,9 @@
 # Project Title: 
 
-### Proposal Author: Allison Ji(netid), Joy Chen(jc10137), Elaine Zhang(netid)
+### Proposal Author: Allison Ji(xj2003), Joy Chen(jc10137), Elaine Zhang(netid)
 
 ## Project Overview
-Briefly introduce the project's purpose and goals.
+The Group Bill Splitting App is designed to streamline the process of splitting bills among groups of people. In today's social and financial landscape, individuals often find themselves sharing expenses in various settings, such as dining out, traveling, or living together. This application aims to provide an efficient and user-friendly solution for managing shared expenses, ensuring that everyone pays their fair share effortlessly.
 
 
 ## Problem Statement and Rationale

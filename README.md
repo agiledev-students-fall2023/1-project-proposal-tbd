@@ -7,7 +7,7 @@ The Group Bill Splitting App is designed to streamline the process of splitting 
 
 
 ## Problem Statement and Rationale
-Describe the problem the software system aims to solve and explain why addressing this problem is important.
+The aim of this project is to simplify bill splitting by creating a user-friendly platform that allows users to easily input expenses and determine how much each participant owes or is owed within a group. The concept of shared expenses is a common occurrence in our modern society. Whether it's splitting the check at a restaurant, sharing rent and utilities with roommates, or organizing group trips, people often need a convenient way to manage these financial transactions. The Group Bill Splitting App aims to address this need by providing an intuitive and efficient tool for users to manage shared expenses seamlessly.
 
 
 ## Target End-users

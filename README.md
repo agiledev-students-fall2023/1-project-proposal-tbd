@@ -1,4 +1,4 @@
-# Project Title: 
+# Project Title: Group Bill Splitting - Collaborative Expense Management App
 
 ### Proposal Author: Allison Ji(xj2003), Joy Chen(jc10137), Elaine Zhang(netid)
 

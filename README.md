@@ -13,10 +13,10 @@ The aim of this project is to simplify bill splitting by creating a user-friendl
 ## Target End-users
 The Group Bill Splitting App is designed to serve a wide range of users who regularly share expenses with others, including: 
 
-- Travelers: Individuals and groups traveling together who need to split expenses for accommodation, dining, transportation, and other shared costs.
-- Social Gatherings: Perfect for friends and acquaintances who frequently dine out, attend events, or engage in shared leisure activities.
-- Co-workers: Convenient for colleagues who want to divide expenses incurred during work-related outings such as business trips or team outings.
-- Housemates and Families: Helpful for people living together who want to efficiently split household bills and shared expenses.
+- **Travelers:** Individuals and groups traveling together who need to split expenses for accommodation, dining, transportation, and other shared costs.
+- **Social Gatherings:** Perfect for friends and acquaintances who frequently dine out, attend events, or engage in shared leisure activities.
+- **Co-workers:** Convenient for colleagues who want to divide expenses incurred during work-related outings such as business trips or team outings.
+- **Housemates and Families:** Helpful for people living together who want to efficiently split household bills and shared expenses.
 
 ## System Functionality (End-User Perspective):
 - **User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.

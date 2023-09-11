@@ -22,17 +22,17 @@ The Group Bill Splitting App is designed to serve a wide range of users who regu
 - Housemates and Families: Helpful for people living together who want to efficiently split household bills and shared expenses.
 
 ## System Functionality (End-User Perspective):
-**User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.
+- **User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.
 
-**Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group.
+- **Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group.
 
-**Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense.
+- **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense.
 
-**Real-time Calculation:** The app will automatically calculate and update each participant's share as expenses are added or modified.
+- **Real-time Calculation:** The app will automatically calculate and update each participant's share as expenses are added or modified.
 
-**Expense History:** Users can access detailed expense histories and reports for each group, making it easy to track spending patterns.
+- **Expense History:** Users can access detailed expense histories and reports for each group, making it easy to track spending patterns.
 
-**Notification System:** Implement notifications to keep users informed about activity within their groups and any outstanding balances.
+- **Notification System:** Implement notifications to keep users informed about activity within their groups and any outstanding balances.
 
 
 ## Scope

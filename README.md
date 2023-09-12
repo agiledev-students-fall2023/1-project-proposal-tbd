@@ -22,11 +22,13 @@ The Group Bill Splitting App is designed to serve a wide range of users who regu
 The following key system functionalities are designed to provide an efficient experience within the application, ensuring transparent, secure, and equitable expense management.
 
 - **User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.
-- **Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group.
-- **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense.
+- **Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group. 
+- **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense. The group will keep track of every expenses based on the individuals involved so that users can manage the time where they want the bills to be shared.
 - **Real-time Calculation:** The app will automatically calculate and update each participant's share as expenses are added or modified.
+- **Currency Swap:** Users can input the currency used and assigned the desired currency for splitting members while the app will help to exchange the money automatically.
 - **Expense History:** Users can access detailed expense histories and reports for each group, making it easy to track spending patterns.
 - **Notification System:** Implement notifications to keep users informed about activity within their groups and any outstanding balances.
+- **Intimacy:** The app will ensure privacy for the splitting sitaution in a group for individuals will only have data on the bills they involved in, but not the splitting situation on other group members.
 
 
 ## Scope

@@ -30,4 +30,4 @@ The following key system functionalities are designed to provide an efficient ex
 
 
 ## Scope
-
+Considering we might develop the project in the form of a mobile app (or web app), it can be challenging for a group of 4-6 to complete within the semester if none of the group members are familiar with Swift.

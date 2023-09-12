@@ -1,6 +1,6 @@
 # Project Title: Group Bill Splitting App - Collaborative Expense Management
 
-### Proposal Author: Allison Ji(xj2003), Joy Chen(jc10137)
+### Proposal Author: Allison Ji(xj2003), Joy Chen(jc10137), Elaine Zhang(elaineZhang67)
 
 ## Project Overview
 The Group Bill Splitting App is designed to streamline the process of splitting bills among groups of people. In today's social and financial landscape, individuals often find themselves sharing expenses in various settings, such as dining out, traveling, or living together. This application aims to provide an efficient and user-friendly solution for managing shared expenses, ensuring that everyone pays their fair share effortlessly. 
@@ -23,13 +23,19 @@ The following key system functionalities are designed to provide an efficient ex
 
 - **User Registration and Authentication:** Users will be required to register and log in securely to access the application's features.
 - **Group Management:** Users can create and manage multiple groups, inviting participants and setting bill-splitting rules for each group. 
-- **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense. The group will keep track of every expenses based on the individuals involved so that users can manage the time where they want the bills to be shared.
-- **Real-time Calculation:** The app will automatically calculate and update each participant's share as expenses are added or modified.
+- **Expense Tracking:** Participants can input expenses, including the amount, category, date, and the individuals involved in the expense, and add photos of the receipt or scan the receipt to extract pricing information. The group will keep track of every expenses based on the individuals involved so that users can manage the time where they want the bills to be shared. (The app supports cumulative spendings and payments over time)
+- **Real-time Calculation:** The app will automatically calculate and update each participant's share as expenses are added or modified. Flexible splitting options are provided such as splitting by percentage, items, or custom.
 - **Currency Swap:** Users can input the currency used and assigned the desired currency for splitting members while the app will help to exchange the money automatically.
 - **Expense History:** Users can access detailed expense histories and reports for each group, making it easy to track spending patterns.
-- **Notification System:** Implement notifications to keep users informed about activity within their groups and any outstanding balances.
+- **Notification System:** Implement notifications to keep users informed about activity within their groups and any outstanding balances. Additonally, users can set deadline for those who owe money to ensure timely payments.
 - **Intimacy:** The app will ensure privacy for the splitting sitaution in a group for individuals will only have data on the bills they involved in, but not the splitting situation on other group members.
 
+## User Journey:
+1. **Setup:** After downloading the app, user can sign up using email, phone number, or social media accounts.
+2. **Create a group:** Users should create a type of group, such as rommates, travels, parties etc. and invite the team members for splitting.
+3. **Creating a bill:** Whenever a user needs to split an expense, they can open the app, enter the total amount, add participants, and choose a splitting method and currency.
+4. **Notification:** The app notified the participants about their share and provides them the deadlines, currency and options to pay,
+5. **Tracking and Analytics:** Users can view their transaction history among each group.
 
 ## Scope
 Considering we might develop the project in the form of a mobile app (or web app), it can be challenging for a group of 4-6 to complete within the semester if none of the group members are familiar with Swift.
